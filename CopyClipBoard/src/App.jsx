@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-     {/* <CopyToClipboardApp /> */}
-    <ClipBoard />
+     <CopyToClipboardApp />
+    {/* <ClipBoard /> */}
     </>
   )
 }
